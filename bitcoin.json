@@ -1,0 +1,16 @@
+{
+    "name": "Example NFT",
+    "symbol": "EXNFT",
+    "description": "This is an example NFT with an external image.",
+    "image": "https://static.news.bitcoin.com/wp-content/uploads/2024/08/dddsssawellas.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Abstract"
+        },
+        {
+            "trait_type": "Theme",
+            "value": "Bitcoin Art"
+        }
+    ]
+}
